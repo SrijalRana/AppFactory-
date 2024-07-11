@@ -7,7 +7,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   if(kIsWeb) {
     await Firebase.initializeApp(options: const FirebaseOptions(
-        apiKey: "AIzaSyC-sv4NHs4mdHLLjGVv4cHCkDrQHtBPIeE",
+        apiKey: "enter apikey",
         authDomain: "brainbuzz-66f5f.firebaseapp.com",
         databaseURL: "https://brainbuzz-66f5f-default-rtdb.firebaseio.com",
         projectId: "brainbuzz-66f5f",
