@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328001802341",
+    "project_id": "brainbuzz-66f5f",
+    "storage_bucket": "brainbuzz-66f5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328001802341:android:d193d3f6cf84676903b68c",
+        "android_client_info": {
+          "package_name": "com.example.brainbuzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDggD68Z4G1ijiXGZcZeZZ-WlpfKQAaDYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
